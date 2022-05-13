@@ -9,7 +9,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [eyupbarlas2134@gmail.com](mailto:eyupbarlas2134@gmail.com)
 * 🧠  I'm learning Solidity, Java
-* 🤝  I'm open to collaborating on interesting, fun, cool projects
+* 🤝  I'm open to collaborate on interesting, fun, cool projects
 
 ### Skills
 
