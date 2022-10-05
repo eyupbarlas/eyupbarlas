@@ -4,7 +4,7 @@ Hi 👋 My name is Eyüp Barlas
 Software Engineer | Open Source Developer | Blockchain Enthusiast
 -----------------------------------------------------------------
 
-I'm a 3rd year Computer Engineering student. I have been working with Python for the last year. I like building my own projects and sharing them with people on GitHub. Currently I'm working on Blockchain Development.
+I'm a 4rd year Computer Engineering student. I have been working with Python for the last year. I like building my own projects and sharing them with people on GitHub. Currently I'm working on Blockchain Development.
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [eyupbarlas2134@gmail.com](mailto:eyupbarlas2134@gmail.com)
