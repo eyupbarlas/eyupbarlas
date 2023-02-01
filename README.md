@@ -1,14 +1,14 @@
 Hi 👋 My name is Eyüp Barlas
 ============================
 
-Software Engineer | Open Source Developer | Blockchain Enthusiast
+Software Engineer | Open Source Developer
 -----------------------------------------------------------------
 
-I'm a 4rd year Computer Engineering student. I have been working with Python for the last year. I like building my own projects and sharing them with people on GitHub. Currently I'm working on Blockchain Development.
+Full Stack Java Developer with 3 years of experience in developing software for big companies. Expertise in Agile methodologies, with a strong ability to rapidly learn and integrate new technologies. Skilled at team collaboration while working in remote environments. I like building my own projects and sharing them with people on GitHub.
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [eyupbarlas2134@gmail.com](mailto:eyupbarlas2134@gmail.com)
-* 🧠  I'm learning Solidity, Java
+* 🧠  I'm learning Java, JavaScript
 * 🤝  I'm open to collaborate on interesting, fun, cool projects
 
 ### Skills
