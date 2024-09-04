@@ -1,7 +1,7 @@
 Hi 👋 My name is Eyüp Barlas
 ============================
 
-Software Engineer | Open Source Developer
+Senior Software Engineer | Open Source Developer
 -----------------------------------------------------------------
 
 Full Stack Java Developer with 3 years of experience in developing software for big companies. Expertise in Agile methodologies, with a strong ability to rapidly learn and integrate new technologies. Skilled at team collaboration while working in remote environments. I like building my own projects and sharing them with people on GitHub.
